@@ -26,5 +26,6 @@ export default {
 
 .navbar__btns {
     margin-left: auto;
+    padding: 1px;
 }
 </style>
