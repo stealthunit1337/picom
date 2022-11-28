@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Добро пожаловать</h1>
+        <h1>Добро пожаловать 123</h1>
         <!-- <router-link to="/posts">Посты</router-link>
         <router-link to="/thoughts">Мысли вслух</router-link> -->
     </div>
@@ -13,4 +13,5 @@ export default {
 </script>
 
 <style scoped>
+
 </style>
